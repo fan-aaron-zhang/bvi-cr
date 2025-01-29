@@ -1,4 +1,4 @@
-# BVI-CR: A Multi-View Human Dataset for Volumetric Video Compression [arXiv]
+# (ISCAS'25) BVI-CR: A Multi-View Human Dataset for Volumetric Video Compression 
 Ge Gao, Adrian Azzarelli, Ho Man Kwan, Nantheera Anantrasirichai, Fan Zhang, Will Andrew, Oliver Moolan-Feroze, David Bull
 
 ## Overview
