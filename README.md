@@ -18,7 +18,7 @@ BVI-CR is an open multi-view volumetric human dataset designed to advance 3D dat
 
 
 ## Access
-The BVI-CR dataset could be accessed via the OneDrive [link](https://uob-my.sharepoint.com/:f:/g/personal/jk22121_bristol_ac_uk/Eqmb-DMDRxtMscaSySe6EW0BYXw2l3bKpQ3yh5m5D28rgw?e=SaMqkh): 
+Download all videos from MS OneDrive. Please fill a simple [registration form](https://forms.office.com/e/gtKpYriSMJ) to get access. You will receive the download details in an email within 2 days after we receive the form. Please note the email may be in your Spam box.
 
 ## Citation
 
