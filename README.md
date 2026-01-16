@@ -21,6 +21,16 @@ BVI-CR is an open multi-view volumetric human dataset designed to advance 3D dat
 Download all videos from MS OneDrive. Please fill a simple [registration form](https://forms.office.com/e/gtKpYriSMJ) to get access. You will receive the download details in an email within 2 days after we receive the form. Please note the email may be in your Spam box.
 
 ## Citation
+If you find this work useful, please consider citing:
+```
+@inproceedings{gao2025bvi,
+  title={BVI-CR: A Multi-View Human Dataset for Volumetric Video Compression},
+  author={Gao, Ge and Azzarelli, Adrian and Kwan, Ho Man and Anantrasirichai, Nantheera and Zhang, Fan and Andrew, Will and Moolan-Feroze, Oliver and Bull, David},
+  booktitle={2025 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  year={2025},
+  organization={IEEE}
+}
+```
 
 ## Acknowledgement
 The data was captured using the Metaverse studio provided by [CondenseReality](https://condense.live/).
